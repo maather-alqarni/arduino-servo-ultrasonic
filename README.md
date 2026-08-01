@@ -73,7 +73,7 @@ The circuit was assembled using real Arduino components and tested successfully.
 Hardware Demonstration Video
 
 📹 Add hardware demonstration video here:
-[[Hardware Demo Video](https://drive.google.com/file/d/1NC3FVku38GeBtB8TtlVMRbdKxIQwxGIy/view?usp=sharing)]
+[Hardware Demo Video](https://drive.google.com/file/d/1NC3FVku38GeBtB8TtlVMRbdKxIQwxGIy/view?usp=sharing)
 
 ---
 
@@ -89,7 +89,7 @@ The project was also implemented and tested using the Tinkercad simulator to ver
 ### Simulation Video
 
 📹 Add Tinkercad simulation video here:
-[[Tinkercad Simulation Video](https://drive.google.com/file/d/1udIEVkS7gD-ACwsWUuOPe1KqjbjANk94/view?usp=sharing)]
+[Tinkercad Simulation Video](https://drive.google.com/file/d/1udIEVkS7gD-ACwsWUuOPe1KqjbjANk94/view?usp=sharing)
 
 ---
 
