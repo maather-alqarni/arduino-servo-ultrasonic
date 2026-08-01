@@ -84,28 +84,12 @@ The project was also implemented and tested using the Tinkercad simulator to ver
 ### Tinkercad Project
 
 🔗 Add your Tinkercad project link here:
-[[Tinkercad Project Link](https://www.tinkercad.com/things/h8jeuYQSxQh-dazzling-esboo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fthings%2FcaLAmwzu87t-funky-amberis&sharecode=DCIzgHnXViAS5i56YSKMktHNl7A1ZNswtm8JmIZWGBE&sharecode=DCIzgHnXViAS5i56YSKMktHNl7A1ZNswtm8JmIZWGBE)]
+[Tinkercad Project Link](https://www.tinkercad.com/things/h8jeuYQSxQh-dazzling-esboo?sharecode=1Td5EKSyzchyiiLBKHigtm7rs1_0-AGdwxsFe0SObr8)
 
 ### Simulation Video
 
 📹 Add Tinkercad simulation video here:
 [[Tinkercad Simulation Video](https://drive.google.com/file/d/1udIEVkS7gD-ACwsWUuOPe1KqjbjANk94/view?usp=sharing)]
-
----
-
-## Repository Structure
-├── Arduino_Code/
-│   └── Servo_Ultrasonic.ino
-│
-├── Images/
-│   ├── Hardware.jpg
-│   └── Tinkercad.png
-│
-├── Videos/
-│   ├── Hardware_Demo.mp4
-│   └── Tinkercad_Demo.mp4
-│
-└── README.md
 
 ---
 
