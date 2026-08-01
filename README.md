@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the integration of an Arduino Uno, HC-SR04 Ultrasonic Sensor, and Servo Motor.
+The project demonstrates the integration of an Arduino Uno, HC-SR04 Ultrasonic Sensor, Servo Motor, and an LED indicator.
 
 The project was completed in two parts:
 
@@ -69,8 +69,7 @@ Connect a Servo Motor with an HC-SR04 Ultrasonic Sensor using Arduino.
 
 ## Hardware Implementation
 
-The circuit was assembled using real Arduino components and tested successfully.
-
+The circuit was assembled using real Arduino components and tested successfully. An LED was added in the hardware implementation as a visual indicator. The LED turns on when the ultrasonic sensor detects an object within 10 cm and turns off when the object moves away.
 Hardware Demonstration Video
 
 📹 Add hardware demonstration video here:
