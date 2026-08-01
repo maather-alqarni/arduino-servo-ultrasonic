@@ -30,12 +30,13 @@ Connect a Servo Motor with an HC-SR04 Ultrasonic Sensor using Arduino.
 ---
 
 ## Components Used
-
 - Arduino Uno
 - HC-SR04 Ultrasonic Sensor
 - Servo Motor (SG90)
+- LED
+- 220Ω Resistor
 - Jumper Wires
-- USB Cable
+- Breadboard
 
 ---
 
